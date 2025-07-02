@@ -4,7 +4,8 @@ This Java program sorts a 2D array of intervals by their start time and counts h
 
 ## 📄 Java File
 
-[👉 Click here to open `TwoDArray.java`](./TwoDArray.java)
+[👉 Click here to open `TwoDArray.java`](./Greedy%20Approach/TwoDArray.java)
+
 
 ## 🧠 What It Does
 
