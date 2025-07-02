@@ -1,4 +1,4 @@
-# TwoDArray.java – Interval Overlap Counter
+# Problem 01 - TwoDArray.java – Interval Overlap Counter
 
 This Java program sorts a 2D array of intervals by their start time and counts how many intervals overlap with the previous one.
 
